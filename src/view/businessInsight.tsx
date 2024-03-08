@@ -1,8 +1,15 @@
 import React from 'react'
+import Header from '../layout/header';
+import Footer from '../layout/footer';
 
 function BusinessInsight(): JSX.Element {
     return (
-      <div>BusinessInsight</div>
+      <div>
+      <section>
+          <Header />
+          <Footer/>
+      </section>
+  </div>
       );
   
   }

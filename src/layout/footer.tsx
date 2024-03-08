@@ -28,16 +28,19 @@ class Footer extends React.Component<any, any> {
                                         <a className="text-white cursor-pointer hover:text-white"><Link to="/aboutus">About Us</Link></a>
                                     </li>
                                     <li className="ml-3 mt-3">
-                                        <a className="text-white cursor-pointer hover:text-white"><Link to="/Home">What We Offer</Link></a>
+                                        <a className="text-white cursor-pointer hover:text-white"><Link to="/offers">What We Offer</Link></a>
                                     </li>
                                     <li className="ml-3 mt-3">
-                                        <a className="text-white cursor-pointer hover:text-white"><Link to="/Home">Products</Link></a>
+                                        <a className="text-white cursor-pointer hover:text-white"><Link to="/products">Products</Link></a>
                                     </li>
                                     <li className="ml-3 mt-3">
-                                        <a className="text-white cursor-pointer hover:text-white"><Link to="/Home">Career</Link></a>
+                                        <a className="text-white cursor-pointer hover:text-white"><Link to="/businessInsight">Business Insight</Link></a>
                                     </li>
                                     <li className="ml-3 mt-3">
-                                        <a className="text-white cursor-pointer hover:text-white"><Link to="/Home">Contact</Link></a>
+                                        <a className="text-white cursor-pointer hover:text-white"><Link to="/career">Career</Link></a>
+                                    </li>
+                                    <li className="ml-3 mt-3">
+                                        <a className="text-white cursor-pointer hover:text-white"><Link to="/contact">Contact</Link></a>
                                     </li>
                                 </nav>
                             </div>

@@ -1,8 +1,15 @@
 import React from 'react'
+import Header from '../layout/header';
+import Footer from '../layout/footer';
 
 function Contact(): JSX.Element {
     return (
-      <div>Contact</div>
+      <div>
+      <section>
+          <Header />
+          <Footer/>
+      </section>
+  </div>
       );
   
   }
