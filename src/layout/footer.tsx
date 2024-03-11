@@ -7,8 +7,8 @@ class Footer extends React.Component<any, any> {
         return (
 
 
-            <div className="flex items-end w-full min-h-screen">
-                <footer className="w-full text-white-700 bg-[#272932] body-font">
+          
+                <footer className="w-full text-white-700 bg-[#272932] body-font ">
                     <div
                         className="container flex flex-col flex-wrap px-5 py-24 mx-auto md:items-center lg:items-start md:flex-row md:flex-no-wrap">
                         <div className="flex-shrink-0 w-64 mx-auto text-center md:mx-0 md:text-left">
@@ -101,9 +101,6 @@ class Footer extends React.Component<any, any> {
                         </div>
                     </div>
                 </footer>
-
-            </div>
-
         );
     }
 
