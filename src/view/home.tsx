@@ -8,7 +8,7 @@ import cardImage3 from '../assets/cardImage3.png';
 import cardImage4 from '../assets/cardImage4.png';
 import cardImage5 from '../assets/cardImage5.png';
 import cardImage6 from '../assets/cardImage6.png';
-import homebg from '../assets/homebg.png';
+
 
 import AOS from 'aos';
 import 'aos/dist/aos.css';
