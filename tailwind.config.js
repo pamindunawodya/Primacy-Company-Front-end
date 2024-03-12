@@ -8,5 +8,7 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  server:{
+    port:3001
+  }
 }
-
