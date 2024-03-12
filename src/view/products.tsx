@@ -13,7 +13,7 @@ function Products(): JSX.Element {
         <div>
             <section>
                 <Header />
-                <section className={'grid grid-rows-1 grid-flow-col gap-3 w-full h-full pl-[90px] pr-[90px] pb-[90px] pt-[40px]'}>
+                <section data-aos="fade-up" data-aos-duration="1000" className={'grid grid-rows-1 grid-flow-col gap-3 w-full h-full pl-[90px] pr-[90px] pb-[90px] pt-[40px]'}>
                     <div className="flex">
                         <div className="col w-full  ">
                             <div className="col w-full m-3 ">

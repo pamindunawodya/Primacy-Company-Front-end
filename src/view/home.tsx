@@ -74,15 +74,15 @@ function Home(): JSX.Element {
                                 </ul>
                             </div>
                         </div>
-                        <div className="col w-full ">
-                            <img src={HomePageImage} title="HomePageImage" alt="HomePageImage" className={'w-[500px] mt-[50px] '} />
+                        <div className="col w-full " >
+                            <img  data-aos="zoom-in"  data-aos-duration="500" src={HomePageImage} title="HomePageImage" alt="HomePageImage" className={'w-[500px] mt-[50px] '} />
 
                         </div>
                     </div>
                 </section>
-                <section  data-aos="fade-up" className={'grid grid-rows-1 grid-flow-col' }>
+                <section data-aos="fade-up" data-aos-duration="1000"  className={'grid grid-rows-1 grid-flow-col' }>
 
-                    <div  data-aos="fade-up" data-aos-duration="1000" className='bg-gradient-to-b from-[#B7B7B7] to-white'>
+                    <div   className='bg-gradient-to-b from-[#B7B7B7] to-white'>
                         <h1 className='text-2xl font-extrabold ml-5 mt-[50px] font-sans text-[#272932]'>Range of Services</h1>
                         <div className="col w-full m-3 ">
                             <h6 className='text-x font-semibold ml-5 font-sans text-[#272932]'>

@@ -8,13 +8,18 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Header from '../layout/header';
 import Footer from '../layout/footer';
+import { useEffect } from 'react';
 
 function Aboutus(): JSX.Element {
+    useEffect(() => {
+        AOS.init();
+      }, [])
+      
     return (
         <div>
             <section>
                 <Header />
-                <section className={'grid grid-rows-1 grid-flow-col gap-3 w-full h-full p-[90px]'}>
+                <section data-aos="fade-up" data-aos-duration="1000" className={'grid grid-rows-1 grid-flow-col gap-3 w-full h-full p-[90px]'}>
                     <div className="flex">
                         <div className="col w-full  ">
                             <div className="col w-full m-3 ">
@@ -31,15 +36,15 @@ function Aboutus(): JSX.Element {
                                     Primacy Design & Consultancy Inc. is a professional B2B solution provider specializing in organizational transformation, change management, and business process improvement. They offer training, design, and consulting services for development, delivery, integration, and outsourcing, delivering exceptional results.  </h6></div>
                         </div>
                         <div className="col w-full ">
-                            <img src={aboutus} title="aboutus" alt="aboutus" className={'w-[500px] mt-[50px] '} />
+                            <img data-aos="zoom-in"  data-aos-duration="500"  src={aboutus} title="aboutus" alt="aboutus" className={'w-[500px] mt-[50px] '} />
 
                         </div>
                     </div>
                 </section>
 
-                <section className={'grid grid-rows-1 grid-flow-col gap-3 w-full h-full pl-[90px] pr-[90px] pb-[90px] pt-[40px]'}>
+                <section  className={'grid grid-rows-1 grid-flow-col gap-3 w-full h-full pl-[90px] pr-[90px] pb-[90px] pt-[40px]'}>
 
-                    <div>
+                    <div data-aos="fade-up" data-aos-duration="1000">
                         <h1 className='text-xl font-extrabold ml-5 mt-[50px] font-sans text-[#0BBA7B] mb-10'>MEET THE TEAM
                         </h1>
                         <div className="grid gap-8 mb-6 lg:mb-16 md:grid-cols-2 ">
