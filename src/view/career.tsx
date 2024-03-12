@@ -11,7 +11,7 @@ function Career(): JSX.Element {
                 <section data-aos="fade-up" data-aos-duration="1000" className={'grid grid-rows-1 grid-flow-col gap-3 w-full h-full p-[90px]'}>
                     <div className="flex">
                         <div className="col w-full ">
-                            <img data-aos="zoom-in" data-aos-duration="500" src={careerPageImage} title="careerPageImage" alt="careerPageImage" className={'w-[500px] mt-[50px] '} />
+                            <img data-aos="zoom-in" data-aos-duration="500" src={careerPageImage} alt="careerPageImage" className={'w-[500px] mt-[50px] '} />
 
                         </div>
                         <div className="col w-full  ">

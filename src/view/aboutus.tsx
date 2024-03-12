@@ -36,7 +36,7 @@ function Aboutus(): JSX.Element {
                                     Primacy Design & Consultancy Inc. is a professional B2B solution provider specializing in organizational transformation, change management, and business process improvement. They offer training, design, and consulting services for development, delivery, integration, and outsourcing, delivering exceptional results.  </h6></div>
                         </div>
                         <div className="col w-full ">
-                            <img data-aos="zoom-in"  data-aos-duration="500"  src={aboutus} title="aboutus" alt="aboutus" className={'w-[500px] mt-[50px] '} />
+                            <img data-aos="zoom-in"  data-aos-duration="500"  src={aboutus}  alt="aboutus" className={'w-[500px] mt-[50px] '} />
 
                         </div>
                     </div>
@@ -121,7 +121,7 @@ function Aboutus(): JSX.Element {
                             </div>
                             <div className=" items-center bg-gray-50 rounded-lg shadow sm:flex  bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl ">
                                 <a href="#">
-                                    <img className="w-[200px] rounded-lg sm:rounded-none sm:rounded-l-lg" src={team4} alt="Dr. Edward Wong" />
+                                    <img className="w-[200px] rounded-lg sm:rounded-none sm:rounded-l-lg" src={team4} alt="Janaka Liyanage" />
                                 </a>
                                 <div className="p-5">
                                     <h3 className="text-xl font-bold tracking-tight text-gray-500">

@@ -27,7 +27,7 @@ function Products(): JSX.Element {
 
                                     {/* Card 01 */}
                                     <div className="w-80  bg-white shadow-md rounded-xl shadow-md rounded-xl transform duration-500 hover:-translate-y-2 cursor-pointer">
-                                        <img src={product1} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                        <img src={product1} title="UTECH Blackbox Universal IIoT Gateway" alt="UTECH Blackbox Universal IIoT Gateway" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                         <div className="p-5">
                                             <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">UTECH Blackbox Universal IIoT
@@ -48,7 +48,9 @@ function Products(): JSX.Element {
 
                                     {/* Card 02 */}
                                     <div className="w-80  bg-white shadow-md rounded-xl shadow-md rounded-xl transform duration-500 hover:-translate-y-2 cursor-pointer">
-                                        <img src={product2} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                        <img src={product2} title="UTECH Trackbox Vehicle tracking Telematic Gateway"
+                                            alt="UTECH Trackbox Vehicle tracking Telematic Gateway"
+                                            className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                         <div className="p-5">
                                             <a href="#">
@@ -65,7 +67,9 @@ function Products(): JSX.Element {
 
                                     {/* Card 03 */}
                                     <div className="w-80  bg-white shadow-md rounded-xl shadow-md rounded-xl transform duration-500 hover:-translate-y-2 cursor-pointer ">
-                                        <img src={product3} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                        <img src={product3} title="UTECH Coollink Cold Chain monitoring IoT Gateway"
+                                            alt="UTECH Coollink Cold Chain monitoring IoT Gateway"
+                                            className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                         <div className="p-5">
                                             <a href="#">
@@ -82,7 +86,9 @@ function Products(): JSX.Element {
 
                                     {/* Card 04 */}
                                     <div className="w-80  bg-white shadow-md rounded-xl shadow-md rounded-xl transform duration-500 hover:-translate-y-2 cursor-pointer">
-                                        <img src={product4} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                        <img src={product4} title="UTECH Smartnode Industry 4.0 Telematic Gateway"
+                                            alt="UTECH Smartnode “Industry 4.0 Telematic Gateway"
+                                            className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                         <div className="p-5">
                                             <a href="#">
@@ -99,7 +105,7 @@ function Products(): JSX.Element {
 
                                     {/* Card 05 */}
                                     <div className="w-80  bg-white shadow-md rounded-xl shadow-md rounded-xl transform duration-500 hover:-translate-y-2 cursor-pointer">
-                                        <img src={product5} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                        <img src={product5} title="UTECH Smart Energy Meter" alt="UTECH Smart Energy Meter" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                         <div className="p-5">
                                             <a href="#">
@@ -115,7 +121,9 @@ function Products(): JSX.Element {
 
                                     {/* Card 06 */}
                                     <div className="w-80  bg-white shadow-md rounded-xl shadow-md rounded-xl transform duration-500 hover:-translate-y-2 cursor-pointer">
-                                        <img src={product6} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                        <img src={product6} title="UTECH Machine + Human (M+H) Telematic Gatewa"
+                                            alt="UTECH Machine + Human (M+H) Telematic Gatewa"
+                                            className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                         <div className="p-5">
                                             <a href="#">

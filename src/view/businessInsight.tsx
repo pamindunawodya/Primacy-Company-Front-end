@@ -26,7 +26,7 @@ function BusinessInsight(): JSX.Element {
 
                                     {/* Card 01 */}
                                     <div className="w-80  bg-white shadow-md rounded-xl shadow-md rounded-xl transform duration-500 hover:-translate-y-2 cursor-pointer">
-                                        <img src={offer1} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                        <img src={offer1} title="E-Commerce" alt="E-Commerce" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                         <div className="p-5">
                                             <h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900">E-Commerce</h5>
@@ -35,7 +35,7 @@ function BusinessInsight(): JSX.Element {
 
                                     {/* Card 02 */}
                                     <div className="w-80  bg-white shadow-md rounded-xl shadow-md rounded-xl transform duration-500 hover:-translate-y-2 cursor-pointer">
-                                        <img src={offer2} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                        <img src={offer2} title="Ships Energy Solution" alt="Ships Energy Solution" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                         <div className="p-5">
                                             <a href="#">
@@ -47,7 +47,7 @@ function BusinessInsight(): JSX.Element {
 
                                     {/* Card 03 */}
                                     <div className="w-80  bg-white shadow-md rounded-xl shadow-md rounded-xl transform duration-500 hover:-translate-y-2 cursor-pointer ">
-                                        <img src={offer3} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                        <img src={offer3} title="Electrical Engineering" alt="Electrical Engineering" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                         <div className="p-5">
                                             <a href="#">
@@ -59,7 +59,7 @@ function BusinessInsight(): JSX.Element {
 
                                     {/* Card 04 */}
                                     <div className="w-80  bg-white shadow-md rounded-xl shadow-md rounded-xl transform duration-500 hover:-translate-y-2 cursor-pointer">
-                                        <img src={offer4} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                        <img src={offer4} title="Software Testing and Firmware Development" alt="Software Testing and Firmware Development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                         <div className="p-5">
                                             <a href="#">
@@ -71,7 +71,7 @@ function BusinessInsight(): JSX.Element {
 
                                     {/* Card 05 */}
                                     <div className="w-80  bg-white shadow-md rounded-xl shadow-md rounded-xl transform duration-500 hover:-translate-y-2 cursor-pointer">
-                                        <img src={offer5} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                        <img src={offer5} title="Computer Security" alt="Computer Security" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                         <div className="p-5">
                                             <a href="#">
@@ -83,7 +83,7 @@ function BusinessInsight(): JSX.Element {
 
                                     {/* Card 06 */}
                                     <div className="w-80  bg-white shadow-md rounded-xl shadow-md rounded-xl transform duration-500 hover:-translate-y-2 cursor-pointer">
-                                        <img src={offer6} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                        <img src={offer6} title="Medical Imaging" alt="Medical Imaging" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                         <div className="p-5">
                                             <a href="#">

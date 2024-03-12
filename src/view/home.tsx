@@ -75,7 +75,7 @@ function Home(): JSX.Element {
                             </div>
                         </div>
                         <div className="col w-full " >
-                            <img  data-aos="zoom-in"  data-aos-duration="500" src={HomePageImage} title="HomePageImage" alt="HomePageImage" className={'w-[500px] mt-[50px] '} />
+                            <img  data-aos="zoom-in"  data-aos-duration="500" src={HomePageImage} title="Home Page Image" alt="Home Page Image" className={'w-[500px] mt-[50px] '} />
 
                         </div>
                     </div>
@@ -110,7 +110,7 @@ function Home(): JSX.Element {
 
                             {/* Card 02 */}
                             <div className="w-80  bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
-                                <img src={cardImage2} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                <img src={cardImage2} title="Mechanical engineering" alt="Mechanical engineering" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                 <div className="p-5">
                                     <a href="#">
@@ -128,7 +128,7 @@ function Home(): JSX.Element {
 
                             {/* Card 03 */}
                             <div className="w-80  bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl ">
-                                <img src={cardImage3} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                <img src={cardImage3} title="Electrical and electronics engineering" alt="Electrical and electronics engineering" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                 <div className="p-5">
                                     <a href="#">
@@ -146,11 +146,11 @@ function Home(): JSX.Element {
 
                             {/* Card 04 */}
                             <div className="w-80  bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl mb-5">
-                                <img src={cardImage4} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                <img src={cardImage4} title="Structural engineering" alt="Structural engineering" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                 <div className="p-5">
                                     <a href="#">
-                                        <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">Product design and development</h5>
+                                        <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">Structural engineering</h5>
                                     </a>
                                     <p className="mb-3 font-normal text-gray-700 ">Our primary objective is to develop innovative products for clients, encompassing consumer goods and industrial machinery.</p>
                                     <a href="#" className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-[#0BBA7B]">
@@ -164,11 +164,11 @@ function Home(): JSX.Element {
 
                             {/* Card 05 */}
                             <div className="w-80  bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl mb-5">
-                                <img src={cardImage5} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                <img src={cardImage5} title="Project management" alt="Project management" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                 <div className="p-5">
                                     <a href="#">
-                                        <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">Mechanical engineering</h5>
+                                        <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">Project management</h5>
                                     </a>
                                     <p className="mb-3 font-normal text-gray-700 ">We will offer clients mechanical engineering services, which involve designing and testing mechanical components, systems, and devices.</p>
                                     <a href="#" className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-[#0BBA7B] ">
@@ -182,11 +182,11 @@ function Home(): JSX.Element {
 
                             {/* Card 06 */}
                             <div className="w-80  bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl mb-5">
-                                <img src={cardImage6} title="Product design and development" alt="Product design and development" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
+                                <img src={cardImage6} title="Consulting services" alt="Consulting services" className={'w-[320px] mt-[5px] pl-5 pr-5'} />
 
                                 <div className="p-5">
                                     <a href="#">
-                                        <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">Electrical and electronics engineering</h5>
+                                        <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">Consulting services</h5>
                                     </a>
                                     <p className="mb-3 font-normal text-gray-700 ">We will provide expertise in electrical and electronics engineering, including circuit design, power system design, and electronic device development.</p>
                                     <a href="#" className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-[#0BBA7B] ">
