@@ -39,7 +39,6 @@ function Home(): JSX.Element {
                             </div>
                             <div className="col w-full m-3 ">
                                 <button type="button" className="before:ease  h-12 w-40 ml-5 mt-[15px]    overflow-hidden  bg-[#0BBA7B] text-white shadow-xl transition-all before:absolute before:right-0 before:top-0 before:h-12 before:w-6 before:translate-x-12 before:rotate-6 before:bg-white before:opacity-10 before:duration-700 hover:shadow-[#699082] hover:before:-translate-x-40 rounded-md">Contact Us</button>
-
                             </div>
                             <div className="col w-full m-3 ">
                                 <ul className="flex mt-5 ml-5 space-x-2">
